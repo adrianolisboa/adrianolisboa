@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Adriano Lisboa 👋
 
-<!--
-**adrianolisboa/adrianolisboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+{ I'm working as a Backend Developer and I'm based in Brazil }
+```
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Elixir
+- 👯 I’m looking to collaborate on Elixir open-source projects
+- 💬 Ask me about the functional programming and the universe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| **SUMARY**                                                                                                                                              | **LANGUAGES**                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Adriano's github stats](https://github-readme-stats.vercel.app/api?username=adrianolisboa&show_icons=true)](https://github.com/adrianolisboa/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianolisboa&layout=compact)](https://github.com/adrianolisboa/github-readme-stats) |
